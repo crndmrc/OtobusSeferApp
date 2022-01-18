@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7d0e287-c699-4c9c-8d63-d8783d51d578": {
+      "ProjectGuid": "c7d0e287-c699-4c9c-8d63-d8783d51d578",
+      "DisplayName": "OtobusSeferApp",
+      "ColorIndex": 0
+    },
+    "c546c2f6-64af-4f48-b24c-2c8bc62163cd": {
+      "ProjectGuid": "c546c2f6-64af-4f48-b24c-2c8bc62163cd",
+      "DisplayName": "Data-Sql",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "8e25a30c-45eb-41e2-bc18-d775119c1397": {
+      "ProjectGuid": "8e25a30c-45eb-41e2-bc18-d775119c1397",
+      "DisplayName": "WebSevices",
+      "ColorIndex": 2
+    },
+    "fccaf087-e6a8-4a8a-90d6-f48558329150": {
+      "ProjectGuid": "fccaf087-e6a8-4a8a-90d6-f48558329150",
+      "DisplayName": "DAL_Example",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

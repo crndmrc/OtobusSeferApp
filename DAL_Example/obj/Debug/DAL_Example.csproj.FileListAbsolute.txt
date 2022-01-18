@@ -1,0 +1,11 @@
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\bin\Debug\DAL_Example.exe.config
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\bin\Debug\DAL_Example.exe
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\bin\Debug\DAL_Example.pdb
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\obj\Debug\DAL_Example.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\obj\Debug\DAL_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\obj\Debug\DAL_Example.Form1.resources
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\obj\Debug\DAL_Example.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\obj\Debug\DAL_Example.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\obj\Debug\DAL_Example.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\obj\Debug\DAL_Example.exe
+C:\Users\ISKUR\Desktop\ceren\OtobusSeferApp\DAL_Example\obj\Debug\DAL_Example.pdb
